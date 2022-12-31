@@ -24,7 +24,7 @@ function createWindow() {
     OverlayController.attachByTitle(win, "osu!beta");
 
     // show devtools
-    win.webContents.openDevTools({ detached: true });
+    //win.webContents.openDevTools({ detached: true });
 }
 
 app.whenReady().then(async () => {
