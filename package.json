@@ -1,0 +1,17 @@
+{
+  "name": "osu-fl",
+  "version": "1.0.0",
+  "main": "fl.js",
+  "author": "mishashto",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron-overlay-window": "^3.1.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "electron": "^20.0.0"
+  }
+}
